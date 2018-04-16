@@ -5,7 +5,6 @@
  */
 package Domain;
 
-import File.ImageGridFile;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
